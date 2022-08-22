@@ -1,7 +1,7 @@
 {
   "name": "Pioneer AVR",
   "version": "0.6.3",
-  "slug": "pioneer",
+  "slug": "pioneer_async_slug",
   "description": "Better Pioneer AVR Integration",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "domain": "pioneer_async",  
